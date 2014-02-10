@@ -17,8 +17,8 @@
 #import "GADBannerView.h"
 #import <iAd/iAd.h>
 
-#define URL_RATIO   @"http://www.applinnov.com/ratio.php?opt=json"
-#define URL_CLICK   @"http://www.applinnov.com/clic.php"
+#define URL_RATIO   @"http://www.applinnov.com/bestad/ratio.php?opt=json"
+#define URL_CLICK   @"http://www.applinnov.com/bestad/clic.php"
 
 typedef enum {
     ADMOB   = 0,
